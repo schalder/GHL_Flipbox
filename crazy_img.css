@@ -48,10 +48,11 @@
     }
 
     .flip-box-back {
-        background-color: #562dd5;
-        color: white;
         transform: rotateY(180deg);
         border-radius: 10px;
+		/* background-color: #572dd6;
+           color: #000000;
+		*/
     }
 
     h2, h3, p {
@@ -89,14 +90,14 @@
   border-radius: 100px 100px 100px 100px;
     /*box-shadow: 5px 5px 10px 0px #562dd5;*/
     font-weight: bold;
-    color: #8c8c8c;
-    background-color: #ffffff;
+    /*color: #8c8c8c;
+    background-color: #ffffff;*/
     }
 
-    button:hover {
+   /* button:hover {
         background-color: #fdb472;
-      color:#ffffff;
-    }
+        color:#ffffff;
+    */
 
     .front-image {
         width: 100%;
